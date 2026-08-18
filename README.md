@@ -2,7 +2,7 @@
 
 An end-to-end Excel project that cleans raw retail sales data, builds calculated financial metrics, and turns them into an interactive, dynamic dashboard for data-driven decision-making.
 
-![Final Dashboard](assets/final-dashboard.jpeg)
+![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/f3fa89b5-7f7b-46b5-9f50-ec00d6b8590a_D5C42F0F-9851-4A6C-B23A-F8E209C28F3E.jpeg)
 
 ---
 
@@ -34,7 +34,7 @@ The dataset was provided by my class tutor as part of a cohort learning assignme
 - Removed duplicate records to ensure data integrity.
 - Applied conditional formatting to flag empty/missing cells in red for quick visual identification during cleaning.
 
-![Raw Sales Data](assets/raw-data.png)
+![Raw Sales Data](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/7cc1fc95-9547-40cc-a110-29355bd3157b_946C1FE1-9A4E-497B-857C-160BC4F5561C.jpeg)
 
 **2. Calculated Fields**
 
@@ -46,8 +46,8 @@ To analyze profitability, I needed **Revenue**, **Cost**, and **Profit** fields,
 
 From there, Revenue, Cost, and Profit were derived for each transaction.
 
-![Cost Per Unit Reference Sheet](assets/cost-per-unit-sheet.png)
-![Calculated Fields with XLOOKUP](assets/calculated-fields-xlookup.png)
+![Cost Per Unit Reference Sheet](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/fc9cd147-589f-4c0c-865b-96cee90fa745_80F2360F-B61C-4EA9-B3D9-ACA57677A32D.jpeg)
+![Calculated Fields with XLOOKUP](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/6336ed53-454c-494d-befe-85acccf02017_9CD52243-1968-42F6-B133-F8596B6CF190.jpeg)
 
 **3. Data Validation**
 
@@ -70,7 +70,7 @@ The final dashboard brings together:
 - Orders by payment method
 - Interactive slicers for on-the-fly filtering
 
-![Final Dashboard](assets/final-dashboard.jpeg)
+![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/f3fa89b5-7f7b-46b5-9f50-ec00d6b8590a_D5C42F0F-9851-4A6C-B23A-F8E209C28F3E.jpeg)
 
 ## 🚀 How to Use
 
