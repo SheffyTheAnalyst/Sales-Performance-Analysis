@@ -89,3 +89,5 @@ The final dashboard brings together:
 ---
 
 *This project was completed as part of a data analytics cohort assignment.*
+And you can check out the live dashboard here:
+https://1drv.ms/x/c/416efe7f0b805100/IQC0Sq2JM2BiTrhIaCxDyYl2AdRhmXGRrXhcaJPNLNItPBs?e=xZIW6f
