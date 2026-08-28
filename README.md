@@ -2,8 +2,7 @@
 
 An end-to-end Excel project that cleans raw retail sales data, builds calculated financial metrics, and turns them into an interactive, dynamic dashboard for data-driven decision-making.
 
-![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/f3fa89b5-7f7b-46b5-9f50-ec00d6b8590a_D5C42F0F-9851-4A6C-B23A-F8E209C28F3E.jpeg)
-
+![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/21c56746b4e2c0e27e2690fdb18771c30fd6ff5e/Screenshot(30).png)
 ---
 
 ## 📌 Overview
@@ -70,7 +69,7 @@ The final dashboard brings together:
 - Orders by payment method
 - Interactive slicers for on-the-fly filtering
 
-![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/9d03df4f3671b83f355af6d593b4c4dd14e58b30/f3fa89b5-7f7b-46b5-9f50-ec00d6b8590a_D5C42F0F-9851-4A6C-B23A-F8E209C28F3E.jpeg)
+![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/21c56746b4e2c0e27e2690fdb18771c30fd6ff5e/Screenshot(30).png)
 
 ## 🚀 How to Use
 
